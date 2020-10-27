@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/14 01:44:57.000.807,=C:\Users\range\Desktop\Unit1.pas</Transaction>
+    <Transaction>2020/10/14 01:53:57.000.741,C:\Users\range\Desktop\Unit1.pas=C:\sistema\forms\Pessoa.pas</Transaction>
+    <Transaction>2020/10/14 01:53:57.000.741,C:\Users\range\Desktop\Unit1.dfm=C:\sistema\forms\Pessoa.dfm</Transaction>
+    <Transaction>2020/10/14 01:54:29.000.518,C:\Users\range\Desktop\Project1.dproj=C:\sistema\Projeto\T_Bytecom.dproj</Transaction>
+    <Transaction>2020/10/21 00:46:06.501,=C:\sistema\Projeto\Unit1.pas</Transaction>
+    <Transaction>2020/10/21 00:46:16.832,=C:\sistema\Projeto\Unit2.pas</Transaction>
+    <Transaction>2020/10/21 00:46:26.481,=C:\sistema\Projeto\Unit3.pas</Transaction>
+    <Transaction>2020/10/27 04:54:51.412,C:\sistema\forms\Main.dfm=C:\sistema\Projeto\Unit2.dfm</Transaction>
+    <Transaction>2020/10/27 04:54:51.412,C:\sistema\forms\Main.pas=C:\sistema\Projeto\Unit2.pas</Transaction>
+    <Transaction>2020/10/27 04:55:31.086,C:\sistema\Projeto\Produto.pas=C:\sistema\Projeto\Unit3.pas</Transaction>
+    <Transaction>2020/10/27 04:55:31.086,C:\sistema\Projeto\Produto.dfm=C:\sistema\Projeto\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
